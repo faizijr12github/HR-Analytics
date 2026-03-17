@@ -39,3 +39,6 @@ Data Cleaning & Transformation
 📂 Use Case
 
 Ideal for HR teams looking to automate reporting, reduce manual effort, and gain quick insights into employee data.
+
+<img width="1389" height="619" alt="HR Analytics" src="https://github.com/user-attachments/assets/882c841c-004e-461d-9d0a-224ce0b14db7" />
+
