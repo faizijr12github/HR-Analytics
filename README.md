@@ -1,44 +1,109 @@
-📖 Description
+# HR Analytics Dashboard — Power BI
 
-Designed and developed an interactive HR Analytics dashboard using Power BI to track employee data, including attendance, working hours, performance, and leave management—helping HR teams make data-driven decisions and save daily operational time.
+> *Transforming raw employee data into actionable workforce insights — saving HR teams 3–4 hours of manual work every day.*
 
-🚀 Project Overview
+---
 
-This project focuses on building a comprehensive HR dashboard that transforms raw employee data into meaningful insights. The dashboard enables HR professionals to efficiently monitor workforce metrics and improve overall productivity.
+## Overview
 
-🎯 Key Features
+This project focuses on designing and developing an **interactive HR Analytics Dashboard** using **Power BI** to track and analyze employee data across attendance, working hours, performance, and leave management.
 
-📊 Employee Attendance Tracking
+The solution empowers HR professionals to move away from manual reporting and toward **data-driven decision-making** — improving operational efficiency and workforce visibility across the organization.
 
-⏱️ Working Hours Analysis
+---
 
-📈 Performance Monitoring
+## Objectives
 
-🌴 Leave Management Insights
+-  Build a **comprehensive HR dashboard** from raw employee data
+-  Enable real-time tracking of **attendance, hours, and leave**
+-  Surface **performance trends** at individual and team level
+-  **Automate** repetitive HR reporting tasks
+-  Deliver **interactive filters** for self-service HR analysis
 
-📉 Interactive Visualizations & Filters
+---
 
-💡 Impact
+## Tools & Technologies
 
-⏳ Saves 3–4 hours of manual HR work daily
+| Tool / Technology | Purpose |
+|---|---|
+| **Power BI Desktop** | Dashboard development and visualization |
+| **Power Query** | Data cleaning, transformation, and preparation |
+| **DAX** | Calculated measures, KPIs, and dynamic logic |
+| **Data Cleaning & Transformation** | Structuring raw HR data for reliable analysis |
 
-⚡ Streamlines HR processes and reporting
+---
 
-📌 Enables faster and better decision-making
+## Key Features
 
-🛠️ Tools & Technologies
+### 1. Employee Attendance Tracking
+Monitor daily, weekly, and monthly attendance patterns across the workforce — identify absenteeism trends before they become operational issues.
 
-Power BI
+### 2. Working Hours Analysis
+Analyze total and average working hours per employee, team, or department — supporting fair workload distribution and overtime monitoring.
 
-Power Query
+### 3. Performance Monitoring
+Track performance metrics over time to identify top performers, underperforming segments, and seasonal productivity trends.
 
-DAX (Data Analysis Expressions)
+### 4. Leave Management Insights
+Visualize leave patterns by type, department, and time period — helping HR plan coverage and reduce scheduling conflicts.
 
-Data Cleaning & Transformation
+### 5. Interactive Visualizations & Filters
+Dynamic slicers and filters allow HR teams to **drill down by employee, department, date range, or leave type** — enabling self-service analysis without technical support.
 
-📂 Use Case
+---
 
-Ideal for HR teams looking to automate reporting, reduce manual effort, and gain quick insights into employee data.
+## Impact
 
-<img width="1389" height="619" alt="HR Analytics" src="https://github.com/user-attachments/assets/882c841c-004e-461d-9d0a-224ce0b14db7" />
+| Metric | Result |
+|---|---|
+|  **Time Saved** | 3–4 hours of manual HR work eliminated daily |
+|  **Process Efficiency** | HR reporting and tracking fully streamlined |
+|  **Decision Speed** | Faster, evidence-backed HR decisions |
 
+>  What previously required manual spreadsheet compilation now takes seconds with an interactive filter.
+
+---
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/882c841c-004e-461d-9d0a-224ce0b14db7)
+
+*A single-pane HR command center — attendance, leave, working hours, and performance visible at a glance.*
+
+---
+
+## Use Case
+
+This dashboard is ideal for:
+
+-  **HR teams** looking to automate daily reporting and reduce manual effort
+-  **HR Managers** needing quick visibility into workforce attendance and leave
+-  **Business Leaders** tracking team performance and productivity trends
+-  **BI Developers** building an HR-domain Power BI portfolio project
+
+---
+
+## Outcome
+
+-  Transformed raw, unstructured employee data into a **clean, reliable analytics layer**
+-  Delivered a **professional, interactive dashboard** covering all core HR metrics
+-  Reduced manual HR reporting effort by **3–4 hours per day**
+-  Enabled HR teams to make **faster, data-backed workforce decisions**
+
+---
+
+## Project Structure
+
+```
+ hr-analytics-dashboard-powerbi
+ ┣  HR_Analytics_Dashboard.pbix       # Main Power BI report file
+ ┣  data/                              # Raw HR data files (CSV / Excel)
+ ┣  screenshots/                       # Dashboard preview images
+ ┗  README.md                          # Project documentation
+```
+
+---
+
+## Connect
+
+If you found this project useful or have suggestions, feel free to open an **Issue** or submit a **Pull Request**.
